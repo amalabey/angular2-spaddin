@@ -1,1 +1,0 @@
-bin\Debug\Angular2_SPAddin.wsp
