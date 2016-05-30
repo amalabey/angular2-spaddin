@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Type="ElementManifest" />
+    <ProjectItemFile Source="tsconfig.json" Type="ElementFile" />
+    <ProjectItemFile Source="typings.json" Type="ElementFile" />
+    <ProjectItemFile Source="package.json" Type="ElementFile" />
+    <ProjectItemFile Source="src\app\app.component.css" Target="src\app\" Type="ElementFile" />
+    <ProjectItemFile Source="src\app\app.component.html" Target="src\app\" Type="ElementFile" />
+    <ProjectItemFile Source="src\app\app.component.ts" Target="src\app\" Type="ElementFile" />
+    <ProjectItemFile Source="src\main.ts" Target="src\" Type="ElementFile" />
+    <ProjectItemFile Source="config\helpers.js" Target="config\" Type="ElementFile" />
+    <ProjectItemFile Source="config\webpack.common.js" Target="config\" Type="ElementFile" />
+    <ProjectItemFile Source="config\webpack.dev.js" Target="config\" Type="ElementFile" />
+    <ProjectItemFile Source="webpack.config.js" Type="ElementFile" />
+    <ProjectItemFile Source="src\polyfills.ts" Target="src\" Type="ElementFile" />
+    <ProjectItemFile Source="src\vendor.ts" Target="src\" Type="ElementFile" />
+    <ProjectItemFile Source="gulpfile.js" Type="ElementFile" />
+  </Files>
+</ProjectItem>

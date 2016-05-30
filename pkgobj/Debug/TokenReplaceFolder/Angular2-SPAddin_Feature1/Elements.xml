@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="tsconfig.json" Url="tsconfig.json" ReplaceContent="TRUE" />
+    <File Path="typings.json" Url="typings.json" ReplaceContent="TRUE" />
+    <File Path="package.json" Url="package.json" ReplaceContent="TRUE" />
+    <File Path="src\app\app.component.css" Url="src/app/app.component.css" ReplaceContent="TRUE" />
+    <File Path="src\app\app.component.html" Url="src/app/app.component.html" ReplaceContent="TRUE" />
+    <File Path="src\app\app.component.ts" Url="src/app/app.component.ts" ReplaceContent="TRUE" />
+    <File Path="src\main.ts" Url="src/main.ts" ReplaceContent="TRUE" />
+    <File Path="config\helpers.js" Url="config/helpers.js" ReplaceContent="TRUE" />
+    <File Path="config\webpack.common.js" Url="config/webpack.common.js" ReplaceContent="TRUE" />
+    <File Path="config\webpack.dev.js" Url="config/webpack.dev.js" ReplaceContent="TRUE" />
+    <File Path="webpack.config.js" Url="webpack.config.js" ReplaceContent="TRUE" />
+    <File Path="src\polyfills.ts" Url="src/polyfills.ts" ReplaceContent="TRUE" />
+    <File Path="src\vendor.ts" Url="src/vendor.ts" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

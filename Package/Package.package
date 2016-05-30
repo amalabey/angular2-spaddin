@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="cef00ac6-7ca5-432d-8350-ed40d9c13f6f" 
+        solutionId="cef00ac6-7ca5-432d-8350-ed40d9c13f6f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Angular2_SPAddin"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="b5e1eeaa-275b-49db-bc71-383ba1c41d3c" />
+  </features>
+</package>

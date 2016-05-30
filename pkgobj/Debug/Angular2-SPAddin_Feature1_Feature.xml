@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="b5e1eeaa-275b-49db-bc71-383ba1c41d3c" Scope="Web" Title="Angular2-SPAddin Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="app\Elements.xml" />
+    <ElementFile Location="app\Default.aspx" />
+    <ElementFile Location="app\images\AppIcon.png" />
+    <ElementFile Location="app\css\styles.css" />
+    <ElementFile Location="app\app.css.map" />
+    <ElementFile Location="app\app.css" />
+    <ElementFile Location="app\app.js" />
+    <ElementFile Location="app\app.js.map" />
+    <ElementFile Location="app\polyfills.js" />
+    <ElementFile Location="app\polyfills.js.map" />
+    <ElementFile Location="app\vendor.js" />
+    <ElementFile Location="app\vendor.js.map" />
+    <ElementFile Location="app\assets\AppIcon.35881fd569bdc91a20e001fc8bc50cb3.png" />
+    <ElementManifest Location="Elements.xml" />
+    <ElementFile Location="tsconfig.json" />
+    <ElementFile Location="typings.json" />
+    <ElementFile Location="package.json" />
+    <ElementFile Location="src\app\app.component.css" />
+    <ElementFile Location="src\app\app.component.html" />
+    <ElementFile Location="src\app\app.component.ts" />
+    <ElementFile Location="src\main.ts" />
+    <ElementFile Location="config\helpers.js" />
+    <ElementFile Location="config\webpack.common.js" />
+    <ElementFile Location="config\webpack.dev.js" />
+    <ElementFile Location="webpack.config.js" />
+    <ElementFile Location="src\polyfills.ts" />
+    <ElementFile Location="src\vendor.ts" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="app\Elements.xml" />
+        <ElementManifest Location="Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="app">
+    <File Path="app\Default.aspx" Url="app/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="app\images\AppIcon.png" Url="app/images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="app\css\styles.css" Url="app/css/styles.css" ReplaceContent="TRUE" />
+    <File Path="app\app.css.map" Url="app/app.css.map" ReplaceContent="TRUE" />
+    <File Path="app\app.css" Url="app/app.css" ReplaceContent="TRUE" />
+    <File Path="app\app.js" Url="app/app.js" ReplaceContent="TRUE" />
+    <File Path="app\app.js.map" Url="app/app.js.map" ReplaceContent="TRUE" />
+    <File Path="app\polyfills.js" Url="app/polyfills.js" ReplaceContent="TRUE" />
+    <File Path="app\polyfills.js.map" Url="app/polyfills.js.map" ReplaceContent="TRUE" />
+    <File Path="app\vendor.js" Url="app/vendor.js" ReplaceContent="TRUE" />
+    <File Path="app\vendor.js.map" Url="app/vendor.js.map" ReplaceContent="TRUE" />
+    <File Path="app\assets\AppIcon.35881fd569bdc91a20e001fc8bc50cb3.png" Url="app/assets/AppIcon.35881fd569bdc91a20e001fc8bc50cb3.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

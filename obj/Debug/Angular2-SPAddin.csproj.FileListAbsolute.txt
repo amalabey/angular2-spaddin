@@ -1,0 +1,3 @@
+C:\Work\Angular2-SPAddin\bin\Debug\Angular2-SPAddin.pdb
+C:\Work\Angular2-SPAddin\obj\Debug\Angular2-SPAddin.dll
+C:\Work\Angular2-SPAddin\obj\Debug\Angular2-SPAddin.pdb
